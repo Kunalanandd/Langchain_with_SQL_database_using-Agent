@@ -1,7 +1,7 @@
 langchain-openai
-pandas 
+pandas
 numpy
-bs4
+beautifulsoup4
 langchain
 python-dotenv
 langchain_community
@@ -14,10 +14,9 @@ pypdf
 langchain-chroma
 chromadb
 langchain-huggingface
-sentence_transformers
+sentence-transformers
 arxiv
 wikipedia
-hub
 langchainhub
-ddgs
-mysql
+duckduckgo-search
+mysql-connector-python
